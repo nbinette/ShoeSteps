@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoeSteps</string>
+    <string name="title_activity_start">ShoeSteps</string>
+    <string name="action_shoes">Shoes</string>
+    <string name="action_miles">Miles</string>
+    <string name="action_start">Home</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_add">Add Shoes</string>
+</resources>
